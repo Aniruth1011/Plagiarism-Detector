@@ -19,16 +19,6 @@ The project calculates a similarity score between two input texts and highlights
 
 ---
 
-## 🧩 Future Enhancements
-
-* **Web Interface:** Interactive front-end with Streamlit or Flask
-* **Semantic Analysis:** NLP embeddings (e.g., BERT, SentenceTransformers) for deeper similarity detection
-* **Batch Processing:** Compare multiple documents at once
-* **File Support:** Accept PDFs, DOCX, and other formats
-* **Reporting:** Generate downloadable reports with highlighted matches and similarity metrics
-
----
-
 ## 📦 Installation
 
 1. Clone the repository:
