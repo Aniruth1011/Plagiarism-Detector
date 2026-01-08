@@ -70,6 +70,8 @@ print(f"Similarity: {score}%")
 print("Matches:", matches)
 ```
 
+[Watch the demo video](./demo.mp4)
+
 ---
 
 ## 📝 License
