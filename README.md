@@ -70,7 +70,7 @@ print(f"Similarity: {score}%")
 print("Matches:", matches)
 ```
 
-[Watch the demo video](./demo.mp4)
+[Watch the demo video](https://drive.google.com/file/d/1--H24FlgWxmjMbkzRNYfbtIhwVIhmjfd/view?usp=sharing)
 
 ---
 
